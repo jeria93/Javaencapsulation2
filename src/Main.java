@@ -25,5 +25,16 @@ public class Main {
             System.out.println(animal.toString());
         }
 
+        System.out.println("Github testing");
+        zoo.remove(bird);
+        for(Animals animal : zoo) {
+            System.out.println(animal.toString());
+        }
+
+        cat.textString("Figaro clone");
+
+//        Commit Window command+0 + select files to se changes.
+
+
     }
 }

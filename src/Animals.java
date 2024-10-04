@@ -11,6 +11,10 @@ public class Animals {
 
     }
 
+    public void textString(String text) {
+        System.out.println(text);
+    }
+
 //    Getters
 
 
