@@ -45,8 +45,6 @@ public class Animals {
         this.name = name;
     }
 
-    public String toString() {
-        return name + " " + age + " " + continent;
-    }
+
 
 }

@@ -35,6 +35,8 @@ public class Main {
 
 //        Commit Window command+0 + select files to se changes.
 
+        System.out.println("Trying new things");
+
 
     }
 }
