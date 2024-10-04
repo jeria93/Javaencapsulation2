@@ -38,6 +38,13 @@ public class Main {
         System.out.println("Trying new things");
         System.out.println("Newer things to come");
 
+//        Some text, playing around
+        zoo.add(bird);
+        zoo.add(dog);
+
+        System.out.println(bird.getAge());
+
+
 
     }
 }
