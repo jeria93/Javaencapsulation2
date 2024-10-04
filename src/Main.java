@@ -31,11 +31,12 @@ public class Main {
             System.out.println(animal.toString());
         }
 
-        cat.textString("Figaro clone");
+        cat.textString("Figaro clone", 1);
 
 //        Commit Window command+0 + select files to se changes.
 
         System.out.println("Trying new things");
+        System.out.println("Newer things to come");
 
 
     }

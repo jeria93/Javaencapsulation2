@@ -11,8 +11,9 @@ public class Animals {
 
     }
 
-    public void textString(String text) {
-        System.out.println(text);
+    public void textString(String text, int age) {
+        System.out.println(text + age);
+
     }
 
 //    Getters
